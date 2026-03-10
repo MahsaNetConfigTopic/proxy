@@ -106,6 +106,7 @@ tg://proxy?server=144.124.230.94&port=443&secret=eecBAgABAAfwAwOG4kw63QAAAARueWV
 tg://proxy?server=irancell.minetor.co.uk&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
 tg://proxy?server=91.107.174.220&port=8443&secret=FgMBAgABAAH8AwOG4kw63Q==
 tg://proxy?server=209.250.237.30&port=443&secret=dd758313e8b619f97d518657d4792130b1
+tg://proxy?server=mtproto.sigma-network.org&port=443&secret=3bbaf7f7df07b82cafcde1c020efe8ed
 tg://proxy?server=185.3.200.191&port=4455&secret=7hYDAQIAAQAB_AMDhuJMOtNiaXNjb3R0aS55ZWt0YW5ldC5jb20
 tg://proxy?server=89.110.118.178&port=443&secret=0123456789abcdef0123456789abcdef
 tg://proxy?server=117.55.202.45&port=443&secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)‌|‌[پروکسی](https://t.me/proxy?server=117.55.202.79
@@ -186,6 +187,7 @@ tg://proxy?server=116.203.13.6&port=8888&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=65.108.4.221&port=443&secret=eecBAgABAAfwAwOG4kw63QAAAARueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29t
 tg://proxy?server=79.175.149.210&port=443&secret=dd6321048187495dfac59a030220c25d8e
 tg://proxy?server=Share-Konin-Bara-Hame.mrmomusic-2.ir&port=160&secret=dd79e9fd64839572ec448e4caded38969a
+tg://proxy?server=91.107.172.155&port=443&secret=79e344818749bd7ac519130220c25d09
 tg://proxy?server=Home.ir.ou-miaiad.info.&port=88&secret=7nnnAQIAAQAH8AMDhuJMOt0=
 tg://proxy?server=77.110.124.221&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d****
 tg://proxy?server=www.uptv443.shop.&port=8443&secret=3XnnAQIAAQAH8AMDhuJMOt0=
@@ -515,6 +517,7 @@ tg://proxy?server=83.228.229.121&port=85&secret=FgIBAgABAAH8AwOG4kw63Q
 tg://proxy?server=212.34.134.99&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276d656469612e737465616d706f77657265642e636f6d
 tg://proxy?server=87.229.100.251&port=443&secret=79e462821249bd7ac519130220c25d09
 tg://proxy?server=payment.snewsolutions.co.uk&port=9741&secret=7gAA8A8Pd1VV____9QBuLmltZWRpYS5zdGVhbXBvd2VyZWQuY29t
+tg://proxy?server=mahyarsaze.ir&port=21445&secret=632a18b4c33b9bbaa08c8a56311cd87c
 tg://proxy?server=proxy.duojinbao.com&port=9443&secret=2adab36179e7a39026adf74034615248
 tg://proxy?server=80.71.149.186&port=8080&secret=dd79e7010200010007f0030386e24c3add
 tg://proxy?server=87.248.149.152&port=443000&secret=EERigv////// AAA//gAAA==
@@ -766,7 +769,6 @@ tg://proxy?server=116.203.137.250&port=443&secret=ee1603010200010001fc030386e24c
 tg://proxy?server=12.Ir.ir.ir.ir.ir.zban-mas.info&port=8888&secret=7gAA8A8Pd1VV____9QBuLmltZWRpYS5zdGVhbXBvd2VyZWQuY29t
 tg://proxy?server=78.46.234.177&port=443&secret=DDBighLLvXrFGRMCBVJdFQ
 tg://proxy?server=205.237.104.83&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
-tg://proxy?server=44.243.35.229&port=80&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=91.239.192.12&port=53965&secret=4c18509f3e37de040be75ae589539dec00000046e79656b74616e65742e636f6d666172616b61762e636f6d76616e2e6e616a76612e636f6d00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000A000000000000000000000000000000000000000000000000001111Aaaa
 tg://proxy?server=HAME-netha.soren-mashin.ir.&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D)__
 tg://proxy?server=78.47.218.224&port=8443&secret=3X4EnKGi0l0GLSwjPFR6DZ43OC40Ny4y
@@ -1201,7 +1203,6 @@ tg://proxy?server=8888.masi.masi.zban-mas.info&port=8888&secret=7gAA8A8Pd1VV____
 tg://proxy?server=140.233.167.183&port=443&secret=EERighJJvXrFGRMCIMJdCQ
 tg://proxy?server=185.84.157.6&port=10&secret=FgMBAgABAAH8AxOG4kw63Q==
 tg://proxy?server=177.159.164.159&port=2717&secret=7gAA8A8Pd1VV____9QBuLmltZWRpYS5zdGVhbXBvd2VyZWQuY29t
-tg://proxy?server=mahyarsaze.ir&port=21444&secret=632a18b4c33b9bbaa08c8a56311cd87c
 tg://proxy?server=server-mania.ultrasam.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
 tg://proxy?server=140.233.167.112&port=77777&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=140.233.167.178&port=443&secret=EERighJJvXrFGRMCIMJdCQ)__
@@ -1215,6 +1216,7 @@ tg://proxy?server=168.119.246.228&port=8443&secret=fgScoaLSXQYtLCM8VHoNngfgScoaL
 tg://proxy?server=91.99.150.26&port=443&secret=7gAA8A8Pd1VV____9QBuLmltZWRpYS5zdGVhbXBvd2VyZWQuY29t
 tg://proxy?server=195.254.165.249&port=9443&secret=1603010200010001fc030386e24c3add
 tg://proxy?server=185.21.12.130&port=443&secret=EERighJJvXrFGRMCIMJdCQ
+tg://proxy?server=212.80.18.74&port=39090&secret=767cf6f14f461cdd166b54eddb5
 tg://proxy?server=vispord.pasargard.enj.vesala.xyz&port=443&secret=eeaf1234567890abcdef1234567890abcd7777772e676f6f676c652e636f6d2e2d7570646174652e41414141412e41414141412e41414141412e41414141412e41414141412e41414141412e41414141412e4141414141
 tg://proxy?server=90.ir.ir.ir.ir.ir.zban-mas.info&port=8888&secret=7gAA8A8Pd1VV9QBuLmltZWRpYS5zdGVhbXBvd2VyZWQuY29t
 tg://proxy?server=dns.bahalbax.ir&port=443&secret=7gAA8A8Pd1VV____9QBuLmktLXcuZ28tLS0
@@ -2560,6 +2562,7 @@ tg://proxy?server=iPhone.jordanair.info&port=77777&secret=EERighJJvXrFGRMCIMJdCQ
 tg://proxy?server=85.133.194.103&port=8443&secret=79e344818749bd7ac519130220c25d09
 tg://proxy?server=195.254.165.51&port=2222&secret=eecBAgAeeAfwEEOGEkwEeQ
 tg://proxy?server=87.248.132.63&port=2222&secret=79e70102001e7807f0104386124c0479
+tg://proxy?server=mtp.fasti.fun&port=8443&secret=76291e5f4627757a22173cec26b1c892
 tg://proxy?server=185.3.200.172&port=4455&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D
 tg://proxy?server=amoxicillin.hyperantibiotic.info&port=443&secret=ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D
 tg://proxy?server=195.254.165.243&port=25565&secret=dd79e344818749bd7ac519130220c25d09
@@ -3271,7 +3274,6 @@ tg://proxy?server=193.17.95.38&port=9999&secret=FgMBAgABAAH8AwOG4kw63QFgMBAgABAA
 tg://proxy?server=47.250.193.215&port=443&secret=ee48093b2e6346c12795bed4de3f77cbdb617a7572652e6d6963726f736f66742e636f6d
 tg://proxy?server=65.109.83.119&port=8080&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5
 tg://proxy?server=193.3.190.60&port=85&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636
-tg://proxy?server=91.107.172.155&port=443&secret=79e344818749bd7ac519130220c25d09
 tg://proxy?server=195.254.165.136&port=9443&secret=EERighJJvXrFGRMCIMJdCQEERighJJvXrFGRMCIMJdCQEERighJJvXrFGRMCIMJdCQEERighJJvXrFGRMCIMJdCQEERighJJvXrFGRMCIMJdCQEERighJJvXrFGRMCIMJdCQEERighJJvXrFGRMCIMJdCQEERighJJvXrFGRMCIMJdCQEERighJJvXrFGRMCIMJdCQ==
 tg://proxy?server=195.184.233.19&port=155&secret=EERighJJvXrFGRMCIMJdCQ
 tg://proxy?server=blacktiime.co.uk&port=443&secret=7hYDAQIAAQAH8AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29tbWVkaWEuc3RlYW1wb3dlcmVkLmNvbQ
@@ -3525,7 +3527,6 @@ tg://proxy?server=212.34.155.60&port=4030&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=6.meli.meli.zban-mas.info&port=8888&secret=7gAA8A8Pd1VV____9QBuLmltZWRpYS5zdGVhbXBvd2VyZWQuY29t
 tg://proxy?server=185.3.200.78&port=4455&secret=7hYDAQIAAQAB_AMDhuJMOt1iaXNjb3R0aS55ZWt0YW5ldC5jb20================================================
 tg://proxy?server=109.234.36.5&port=8443&secret=7gAA8A8Pd1VV____9QBuLmktLXcuZ28tLS0=
-tg://proxy?server=mahyarsaze.ir&port=21445&secret=632a18b4c33b9bbaa08c8a56311cd87c
 tg://proxy?server=49.13.47.185&port=443&secret=1320PuNyHw_LQKT_Y7XNJw==
 tg://proxy?server=78.40.193.180&port=8888&secret=7gAA8A8Pd1VV____9QBuLmltZWRpYS5zdGVhbXBvd2VyZWQuY29t
 tg://proxy?server=91.107.169.26&port=8443&secret=eEDppPO8Eteoxf8JstOq8Q
@@ -3876,6 +3877,7 @@ tg://proxy?server=91.238.92.221&port=8443&secret=eeRighJJvXrFGRMCIMJdCQ
 tg://proxy?server=iran.zibayi.shop.&port=888&secret=7gwwYoISy716xRkTAgVSXRVpYS5zdGVhbXBvd2VyZWQuY29t****
 tg://proxy?server=185.115.161.233&port=9443&secret=3RYDAQIAAQAB_AMDhuJMOt03RYDAQI
 tg://proxy?server=100.Ir.ir.ir.ir.ir.zban-mas.info&port=8888&secret=7gAA8A8Pd1VV____9QBuLmltZWRpYS5zdGVhbXBvd2VyZWQuY29t)__
+tg://proxy?server=44.251.216.49&port=80&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=algortim.sayaair.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
 tg://proxy?server=140.233.167.224&port=443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=37.354.85-365.ir&port=443&secret=7gAA8A8Pd1VV____9QBuLmltZWRpYS5zdGVhbXBvd2VyZWQuY29t
@@ -3898,6 +3900,7 @@ tg://proxy?server=185.84.157.10&port=443&secret=FgMBAgABAAH8AxOG4kw63Q==
 tg://proxy?server=195.18.10.215&port=2222&secret=eecBAgAeeAfwEEOGEkwEeQ
 tg://proxy?server=37.49.225.252&port=443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=157.180.30.251&port=443&secret=7HQighJPBNMYVRNB6tdkVw
+tg://proxy?server=44.243.35.229&port=80&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=185.84.157.21&port=444&secret=1603010200010001fc031386e24c3add
 tg://proxy?server=62.60.177.69&port=443&secret=7hYDAQIAAQAH8AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29tbWVkaWEuc3RlYW1wb3dlcmVkLmNvbQ)__
 tg://proxy?server=138.201.195.175&port=443&secret=104462821249bd7ac519130220c25d09
@@ -5161,6 +5164,7 @@ tg://proxy?server=refral-cover.kalakbazi-co.co.uk&port=600&secret=ee160301020001
 tg://proxy?server=184.174.98.165&port=8770&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=195.254.165.243&port=25565&secret=dd79e344818749bd7ac519130220c25d09](https://t.me/ConfigX2ray/34474
 tg://proxy?server=116541.full.filmne1t.info&port=8080&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5
+tg://proxy?server=176.124.205.32&port=9443&secret=ee8f36f368ffbb7a4c91f7623991bbaa496661762e64796e6d652e6f7668
 tg://proxy?server=103.161.34.15&port=65&secret=eeNEgYdJvXrFGRMCIMJdCQ==**
 tg://proxy?server=95.216.178.101&port=443&secret=1603010200010001fc031386e24c3add
 tg://proxy?server=194.146.36.2&port=443&secret=6f4da755f1bbeb575b8d5639f864dae5
@@ -6574,6 +6578,7 @@ tg://proxy?server=92.114.24.8&port=158&secret=dd79e9fd64839572ec448e4caded38969a
 tg://proxy?server=149.248.62.72&port=443&secret=dd93c35812377b0dbcc7d1daa6560ad6ad
 tg://proxy?server=148.251.26.138&port=77777&secret=EERighJJvXrFGRMCIMJdCQ
 tg://proxy?server=195.254.165.61&port=2222&secret=79e70102001e7807f0104386124c0479
+tg://proxy?server=mahyarsaze.ir&port=21444&secret=632a18b4c33b9bbaa08c8a56311cd87c
 tg://proxy?server=download.vivanet.info&port=25565&secret=eeNEgYdJvXrFGRMCIMJdCQ=
 tg://proxy?server=167.235.169.138&port=443&secret=7gAA8A8Pd1VV____9QBuLmltZWRpYS5zdGVhbXBvd2VyZWQuY29t
 tg://proxy?server=3764.meli.meli.zban-mas.info&port=8888&secret=7gAA8A8Pd1VV____9QBuLmltZWRpYS5zdGVhbXBvd2VyZWQuY29t)__
@@ -6704,7 +6709,6 @@ tg://proxy?server=31.15.18.153&port=3300&secret=7uT6lJsjBUaRc6bPf4mqOIxzMy5hbWF6
 tg://proxy?server=87.248.134.5&port=9443&secret=EERighJJvXrFGRMCIMJdCQ
 tg://proxy?server=2.e7777.cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.again_to_fight.everyone.i_am.zban-mas.info&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=62.60.176.38&port=443&secret=7hYDAQIAAQAH8AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29tbWVkaWEuc3RlYW1wb3dlcmVkLmNvbQ
-tg://proxy?server=176.124.205.32&port=9443&secret=ee8f36f368ffbb7a4c91f7623991bbaa496661762e64796e6d652e6f7668
 tg://proxy?server=185.244.181.43&port=443&secret=1320PuNyHw_LQKT_Y7XNJwAAAA==
 tg://proxy?server=151.243.217.57&port=443&secret=FgMBAgABAAH8AxOG4kw63Q
 tg://proxy?server=46.224.98.235&port=8888&secret=7gAA8A8Pd1VV____9QBuLmltZWRpYS5zdGVhbXBvd2VyZWQuY29t
@@ -7835,6 +7839,7 @@ tg://proxy?server=185.3.200.186&port=2054&secret=ee1603010200010001fc030386e24c3
 tg://proxy?server=193.17.95.26&port=2222&secret=eecBAgAeeAfwEEOGEkwEeQeecBAgAeeAfwEEOGEkwEeQeecBAgAeeAfwEEOGEkwEeQeecBAgAeeAfwEEOGEkwEeQeecBAgAeeAfwEEOGEkwEeQeecBAgAeeAfwEEOGEkwEeQeecBAgAeeAfwEEOGEkwEeQeecBAgAeeAfwEEOGEkwEeQeecBAgAeeAfwEEOGEkwEeQeecBAgAeeAfwEEOGEkwEeQeecBAgAeeAfwEEOGEkwEeQ==
 tg://proxy?server=htop.link-a4.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D
 tg://proxy?server=settings.netdatahub.com&port=4343&secret=tg://proxy?server=settings.netdatahub.com
+tg://proxy?server=65.109.51.89&port=4455&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=195.254.165.51&port=2222&secret=eecBAgAeeAfwEEOGEkwEeQeecBAgAeeAfwEEOGEkwEeQeecBAgAeeAfwEEOGEkwEeQeecBAgAeeAfwEEOGEkwEeQeecBAgAeeAfwEEOGEkwEeQeecBAgAeeAfwEEOGEkwEeQeecBAgAeeAfwEEOGEkwEeQeecBAgAeeAfwEEOGEkwEeQeecBAgAeeAfwEEOGEkwEeQeecBAgAeeAfwEEOGEkwEeQeecBAgAeeAfwEEOGEkwEeQeecBAgAeeAfwEEOGEkwEeQ==
 tg://proxy?server=87.248.132.150&port=77777&secret=EERigv////// AAA//gAAA==
 tg://proxy?server=89.110.78.98&port=443&secret=eecBAgABAAfwAwOG4kw63QAAAARueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29t)[🇫🇷
